@@ -4,3 +4,6 @@ number2 = 8
 
 print("hola mundo")
 print(number1 + number2)
+
+message = None
+print(message)
